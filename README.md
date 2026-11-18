@@ -49,4 +49,4 @@
 </p>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vijaykumar-iitism&show_icons=true&locale=en&layout=compact" alt="Vijay Kumar" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vijaykumar1081&show_icons=true&locale=en&layout=compact" alt="Vijay Kumar" /></p>
