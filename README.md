@@ -6,11 +6,11 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ijaykumar-iitism&label=Profile%20views&color=0e75b6&style=flat" alt="Vijay Kumar" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Vijaykumar1081&label=Profile%20views&color=0e75b6&style=flat" alt="Vijay Kumar" /> </p>
 
 <h3 align="left">Profiles:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/vijay-kumar-iitism/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vijay-kumar-iitism" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vijaykumar1081/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vijay-kumar-iitism" height="30" width="40" /></a>
 &nbsp
 <a href="https://codeforces.com/profile/vijaykumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="vijaykumar" height="30" width="40" /></a>
 &nbsp
